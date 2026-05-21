@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/stand-by-your-man/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Stand by Your Man](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/stand-by-your-man/) |
+| **Get License** | [License this song: Stand by Your Man](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/stand-by-your-man/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `73be17b496ca5b735760d775160acefd508b49ecc6aef977cfdc14ccb64627a0` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
