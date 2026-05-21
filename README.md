@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/stand-by-your-man/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Stand by Your Man](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/stand-by-your-man/) |
+| **Get License** | [Music Rights & Licensing for Stand by Your Man](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/stand-by-your-man/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The neon signs are humming, calling to the night
+> I want to pull your body close and hold the fever tight
+> We're riding down the open road, a midnight rendezvous
+> Every single mile is just another spark with you
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
